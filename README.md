@@ -3,4 +3,5 @@ Coded for the 2021 Congressional App Challenge, the Hot Stuff application provid
 
 ## How to Use
 
-1.
+1. Download all the files and folders as a .zip file.
+2. Open the program with the XCode application (iOS and macOS users only).
